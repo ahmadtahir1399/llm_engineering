@@ -213,3 +213,7 @@ week6/*/*.jsonl
 week6/*.pth
 week6/*.joblib
 week8/*.pth
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
